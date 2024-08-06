@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM PEH Index.md",
+                "file": "Introduction to Linux/Introduction to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77ed98cdf8863d08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Linux/Pretty much... learn to use Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "083b6453f3093f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Linux/Pretty much... learn to use Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3572f767c1e280ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Python/Introduction to Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCM PEH Index.md",
+                "file": "Introduction to Python/Introduction to Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCM PEH Index.md",
+                "file": "Introduction to Python/Introduction to Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCM PEH Index.md"
+                "file": "Introduction to Python/Introduction to Python.md"
               }
             }
           }
@@ -147,18 +184,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ad3be0fe7de8365",
+  "active": "7e47337ec4975270",
   "lastOpenFiles": [
+    "Introduction to Python",
+    "TCM PEH Index.md",
+    "Introduction to Python/Introduction to Python.md",
     "Introduction to Linux/Introduction to Linux.md",
-    "Networking/OSI Model.md",
-    "TCM-PEH-Obsidian-Notes",
-    "Networking/TCP, UDP and the Three-Way Handshake.md",
-    "Networking/Subnetting.md",
+    "Introduction to Linux/How to make a IP sweeper using bash.md",
+    "Introduction to Linux/Networking Commands in Linux.md",
+    "Introduction to Linux/Starting and Stopping services in Linux.md",
+    "Introduction to Linux/Pretty much... learn to use Linux.md",
     "Networking/MAC Addresses.md",
     "Networking/IP Addresses.md",
-    "Networking/Common Ports and Protocols.md",
-    "TCM PEH Index.md",
+    "Networking/Subnetting.md",
+    "Networking/OSI Model.md",
     "Networking/Networking.md",
+    "Networking/Common Ports and Protocols.md",
+    "TCM-PEH-Obsidian-Notes",
+    "Networking/TCP, UDP and the Three-Way Handshake.md",
     "Introduction to Linux",
     "Networking/Pasted image 20240805122359.png",
     "Networking/Pasted image 20240805122104.png",
