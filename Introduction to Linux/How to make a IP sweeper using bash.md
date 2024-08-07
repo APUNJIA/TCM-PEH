@@ -12,20 +12,26 @@ done
 fi
 ```
 
-make sure to save this in a file called ipsweep.sh and make sure to give execute permissions to this file by:
+Make sure to save this in a file called **ipsweep.sh** and make sure to give execute permissions to this file by:
 
 ```
-sudo chmod +x ipsweep.sh
+$ sudo chmod +x ipsweep.sh
 ```
 
-$1 basically is used as a placeholder for the initial IP ip address. \
+Run the following shell script by: 
 
-$ip is the placeholder for the rest of the IP addresses in the subnet
+```
+$ ./ipsweep.sh <ip_address>
+```
 
-ping -c is the number of ICMP pings you want to send to the IP address
+*$1* basically is used as a placeholder for the initial IP ip address. \
 
-grep is to find the line which has a particular string
+*$ip* is the placeholder for the rest of the IP addresses in the subnet
 
-cut -d basically deletes the thing you want to delete in a specific string and -f will output the nth word after the deleted string
+*ping -c* is the number of ICMP pings you want to send to the IP address
 
-tr is for translate and tr -d will delete a specific character in a word(not the exact def but, deal with it)
+*grep* is to find the line which has a particular string
+
+*cut -d* basically deletes the thing you want to delete in a specific string and *-f* will output the nth word after the deleted string
+
+*tr* is for translate and *tr -d* will delete a specific character in a word(not the exact def but, deal with it)

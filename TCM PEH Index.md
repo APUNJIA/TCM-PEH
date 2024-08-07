@@ -11,4 +11,6 @@
 	3. [[Starting and Stopping services in Linux]]
 	4. [[How to make a IP sweeper using bash]]
 3. [[Introduction to Python]]
-	1. 
+	1. [[Basics of Python]]
+	2. [[Making a Port Scanner out of Python]]
+	3. [[Object Oriented Programming in Python]]
