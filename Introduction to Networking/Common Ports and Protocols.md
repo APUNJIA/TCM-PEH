@@ -1,4 +1,4 @@
-![[Pasted image 20240805111321.png]]
+![[Pasted image 20240805111321.png]] #ports 
 
 **FTP**: File Transfer Protocol. Ability to move files in and out of a server.
 
@@ -20,3 +20,5 @@ Telnet: Ability to log into a shell remotely. Works hand in hand with SSH.
 **TFTP**: Trivial FTP
 
 **SNMP**: Simple Network Management Protocol
+
+#ports

@@ -14,3 +14,8 @@
 	1. [[Basics of Python]]
 	2. [[Making a Port Scanner out of Python]]
 	3. [[Object Oriented Programming in Python]]
+4. [[The 5 stages of Ethical Hacking]]
+	1. [[Reconnaissance]]
+	2. [[Scanning]]
+	3. [[Gaining Access]]
+5. 

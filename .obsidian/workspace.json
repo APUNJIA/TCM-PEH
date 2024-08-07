@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4db3302eb981d0e9",
+        "id": "ccb21e2416678786",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6edfa51ba3d4be",
+            "id": "b1756484503e1327",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5225ec3b7e899ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TCM PEH Index.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,35 +156,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6edfa51ba3d4be",
+  "active": "a5225ec3b7e899ba",
   "lastOpenFiles": [
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+    "TCM PEH Index.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
+    "Ethical Hacking Portion/Gaining Access",
+    "Ethical Hacking Portion/Scanning",
+    "Ethical Hacking Portion/Scanning/Scanning.md",
+    "Ethical Hacking Portion/Reconnaisance",
+    "Ethical Hacking Portion",
+    "Introduction to Python/Object Oriented Programming in Python.md",
+    "Introduction to Python/Making a Port Scanner out of Python.md",
     "Introduction to Python/Introduction to Python.md",
     "Introduction to Python/Basics of Python.md",
-    "Introduction to Python/Making a Port Scanner out of Python.md",
-    "Introduction to Python/Object Oriented Programming in Python.md",
-    "Introduction to Linux/Starting and Stopping services in Linux.md",
-    "Introduction to Linux/Pretty much... learn to use Linux.md",
+    "README.md",
+    "Introduction to Networking/Common Ports and Protocols.md",
     "Introduction to Linux/Networking Commands in Linux.md",
     "Introduction to Linux/Introduction to Linux.md",
+    "Introduction to Linux/Starting and Stopping services in Linux.md",
+    "Introduction to Linux/Pretty much... learn to use Linux.md",
     "Introduction to Linux/How to make a IP sweeper using bash.md",
-    "Networking/Common Ports and Protocols.md",
-    "Networking/Pasted image 20240805093917.png",
-    "Networking/OSI Model.md",
-    "Networking/Networking.md",
-    "Networking/MAC Addresses.md",
-    "Networking/Subnetting.md",
-    "TCM PEH Index.md",
+    "Introduction to Networking/IP Addresses.md",
+    "Introduction to Networking/MAC Addresses.md",
+    "Introduction to Networking/Networking.md",
+    "Introduction to Networking/OSI Model.md",
+    "Resources",
+    "Resources/mementopython3-english.pdf",
+    "Resources/Pasted image 20240805093917.png",
+    "Introduction to Networking/Subnetting.md",
     "Introduction to Python",
-    "Networking/IP Addresses.md",
     "TCM-PEH-Obsidian-Notes",
-    "Networking/TCP, UDP and the Three-Way Handshake.md",
+    "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
     "Introduction to Linux",
-    "Networking/Pasted image 20240805122359.png",
-    "Networking/Pasted image 20240805122104.png",
-    "Networking",
-    "Networking/Pasted image 20240805111321.png",
-    "Networking/Pasted image 20240805101039.png",
-    "Networking/Pasted image 20240805094548.png",
+    "Resources/Pasted image 20240805122359.png",
+    "Resources/Pasted image 20240805122104.png",
+    "Introduction to Networking",
+    "Resources/Pasted image 20240805111321.png",
+    "Resources/Pasted image 20240805101039.png",
+    "Resources/Pasted image 20240805094548.png",
     "Welcome.md"
   ]
 }
