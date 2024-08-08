@@ -1,5 +1,5 @@
 
-**Important**: We use sockets to make connections between #ports and [[IP Addresses]]
+**Important**: We use sockets to make connections between ports and [[IP Addresses]]
 
 **Also Important**: Don't name your python file "Socket.py" as socket is a library that is inbuilt into python and it will cause an issue with the thing.
 

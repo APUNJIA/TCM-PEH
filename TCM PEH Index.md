@@ -1,4 +1,4 @@
-1. [[Networking]]
+1. [[Introduction to Networking]]
 	1. [[IP Addresses]]
 	2. [[MAC Addresses]]
 	3. [[TCP, UDP and the Three-Way Handshake]]
