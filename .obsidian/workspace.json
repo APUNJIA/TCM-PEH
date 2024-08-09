@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Python/Object Oriented Programming in Python.md",
+                "file": "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "976f83a0cf783b9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passive Recon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9a7445191afc4c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Python/Object Oriented Programming in Python.md",
+                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Python/Object Oriented Programming in Python.md",
+                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Python/Object Oriented Programming in Python.md"
+                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md"
               }
             }
           }
@@ -156,8 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5225ec3b7e899ba",
+  "active": "7e47337ec4975270",
   "lastOpenFiles": [
+    "Passive Recon.md",
+    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+    "Introduction to Python/Object Oriented Programming in Python.md",
     "Introduction to Python/Making a Port Scanner out of Python.md",
     "Introduction to Python/Introduction to Python.md",
     "Introduction to Python/Basics of Python.md",
@@ -165,9 +193,7 @@
     "TCM PEH Index.md",
     "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
     "Introduction to Networking/Introduction to Networking.md",
-    "Introduction to Python/Object Oriented Programming in Python.md",
     "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
     "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
     "Ethical Hacking Portion/Gaining Access",
     "Ethical Hacking Portion/Scanning",
