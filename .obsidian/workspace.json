@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to download Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to download Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to download Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to download Challs from VulnHub.md"
+                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md"
               }
             }
           }
@@ -162,8 +162,10 @@
   },
   "active": "e285836d69bd8494",
   "lastOpenFiles": [
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "TCM PEH Index.md",
+    "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
     "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
-    "How to download Challs from VulnHub.md",
     "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
     "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
     "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
@@ -177,8 +179,6 @@
     "Resources/Pasted image 20240811220119.png",
     "Resources/Pasted image 20240811220054.png",
     "Resources/Pasted image 20240811220004.png",
-    "TCM PEH Index.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
     "Ethical Hacking Portion/Scanning/Scanning.md",
     "README.md",
     "Introduction to Python/Object Oriented Programming in Python.md",
