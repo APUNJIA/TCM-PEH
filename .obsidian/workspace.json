@@ -4,55 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ccb21e2416678786",
+        "id": "5f67f561ec271ac9",
         "type": "tabs",
         "children": [
           {
-            "id": "b1756484503e1327",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a5225ec3b7e899ba",
+            "id": "c740bdb5064e7ce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+                "file": "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "976f83a0cf783b9c",
+            "id": "e285836d69bd8494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passive Recon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9a7445191afc4c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+                "file": "How to download Challs from VulnHub.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+                "file": "How to download Challs from VulnHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+                "file": "How to download Challs from VulnHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md"
+                "file": "How to download Challs from VulnHub.md"
               }
             }
           }
@@ -180,24 +160,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e47337ec4975270",
+  "active": "e285836d69bd8494",
   "lastOpenFiles": [
-    "Passive Recon.md",
-    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+    "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
+    "How to download Challs from VulnHub.md",
     "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
+    "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
+    "Ethical Hacking Portion/Reconnaisance/Hunting Subdomains.md",
+    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
+    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
+    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+    "Resources/Pasted image 20240811220321.png",
+    "Resources/Pasted image 20240811220241.png",
+    "Resources/Pasted image 20240811220155.png",
+    "Resources/Pasted image 20240811220119.png",
+    "Resources/Pasted image 20240811220054.png",
+    "Resources/Pasted image 20240811220004.png",
+    "TCM PEH Index.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Ethical Hacking Portion/Scanning/Scanning.md",
+    "README.md",
     "Introduction to Python/Object Oriented Programming in Python.md",
     "Introduction to Python/Making a Port Scanner out of Python.md",
     "Introduction to Python/Introduction to Python.md",
     "Introduction to Python/Basics of Python.md",
-    "README.md",
-    "TCM PEH Index.md",
     "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
     "Introduction to Networking/Introduction to Networking.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
     "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
     "Ethical Hacking Portion/Gaining Access",
     "Ethical Hacking Portion/Scanning",
-    "Ethical Hacking Portion/Scanning/Scanning.md",
     "Ethical Hacking Portion/Reconnaisance",
     "Ethical Hacking Portion",
     "Introduction to Networking/Common Ports and Protocols.md",
@@ -206,22 +198,15 @@
     "Introduction to Linux/Starting and Stopping services in Linux.md",
     "Introduction to Linux/Pretty much... learn to use Linux.md",
     "Introduction to Linux/How to make a IP sweeper using bash.md",
-    "Introduction to Networking/IP Addresses.md",
-    "Introduction to Networking/MAC Addresses.md",
-    "Introduction to Networking/OSI Model.md",
     "Resources",
     "Resources/mementopython3-english.pdf",
     "Resources/Pasted image 20240805093917.png",
-    "Introduction to Networking/Subnetting.md",
     "Introduction to Python",
     "TCM-PEH-Obsidian-Notes",
     "Introduction to Linux",
     "Resources/Pasted image 20240805122359.png",
     "Resources/Pasted image 20240805122104.png",
     "Introduction to Networking",
-    "Resources/Pasted image 20240805111321.png",
-    "Resources/Pasted image 20240805101039.png",
-    "Resources/Pasted image 20240805094548.png",
-    "Welcome.md"
+    "Resources/Pasted image 20240805111321.png"
   ]
 }

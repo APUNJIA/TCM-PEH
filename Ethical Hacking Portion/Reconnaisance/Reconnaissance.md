@@ -1,0 +1,7 @@
+1) [[Discovering Email Addresses]]
+2) [[Passive Recon]]
+3) [[Gathering Breached Creds]]
+4) [[Hunting Subdomains]]
+5) [[Identifying Website Technologies]]
+6) [[Information Gathering with Burp Suite]]
+7) [[Google Fu and Utilizing Social Media]]

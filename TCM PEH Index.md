@@ -16,6 +16,13 @@
 	3. [[Object Oriented Programming in Python]]
 4. [[The 5 stages of Ethical Hacking]]
 	1. [[Reconnaissance]]
+		1. [[Discovering Email Addresses]]
+		2. [[Passive Recon]]
+		3. [[Gathering Breached Creds]]
+		4. [[Hunting Subdomains]]
+		5. [[Identifying Website Technologies]]
+		6. [[Information Gathering with Burp Suite]]
+		7. [[Google Fu and Utilizing Social Media]]
 	2. [[Scanning]]
 	3. [[Gaining Access]]
 5. 
