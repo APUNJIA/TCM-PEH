@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
+                "file": "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md"
+                "file": "Ethical Hacking Portion/Scanning/Scanning with nmap.md"
               }
             }
           }
@@ -162,9 +162,16 @@
   },
   "active": "e285836d69bd8494",
   "lastOpenFiles": [
+    "Resources/Pasted image 20240813142033.png",
+    "Introduction to Linux/How to make a IP sweeper using bash.md",
+    "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
+    "Introduction to Linux/Starting and Stopping services in Linux.md",
+    "Introduction to Linux/Pretty much... learn to use Linux.md",
+    "Introduction to Linux/Networking Commands in Linux.md",
+    "Introduction to Linux/Introduction to Linux.md",
+    "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
     "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
     "TCM PEH Index.md",
-    "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
     "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
     "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
     "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
@@ -187,17 +194,10 @@
     "Introduction to Python/Basics of Python.md",
     "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
     "Introduction to Networking/Introduction to Networking.md",
-    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
     "Ethical Hacking Portion/Gaining Access",
     "Ethical Hacking Portion/Scanning",
     "Ethical Hacking Portion/Reconnaisance",
     "Ethical Hacking Portion",
-    "Introduction to Networking/Common Ports and Protocols.md",
-    "Introduction to Linux/Networking Commands in Linux.md",
-    "Introduction to Linux/Introduction to Linux.md",
-    "Introduction to Linux/Starting and Stopping services in Linux.md",
-    "Introduction to Linux/Pretty much... learn to use Linux.md",
-    "Introduction to Linux/How to make a IP sweeper using bash.md",
     "Resources",
     "Resources/mementopython3-english.pdf",
     "Resources/Pasted image 20240805093917.png",
