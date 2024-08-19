@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md"
+                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md"
               }
             }
           }
@@ -161,13 +161,29 @@
   },
   "active": "c851d6c37a3e7164",
   "lastOpenFiles": [
-    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
+    "Introduction to Python/Object Oriented Programming in Python.md",
+    "Introduction to Python/Making a Port Scanner out of Python.md",
+    "Introduction to Python/Introduction to Python.md",
+    "Introduction to Python/Basics of Python.md",
+    "Introduction to Linux/Starting and Stopping services in Linux.md",
+    "Introduction to Linux/Pretty much... learn to use Linux.md",
+    "Introduction to Linux/Networking Commands in Linux.md",
+    "Introduction to Linux/Introduction to Linux.md",
+    "Introduction to Linux/How to make a IP sweeper using bash.md",
+    "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
+    "Introduction to Networking/Subnetting.md",
+    "Introduction to Networking/OSI Model.md",
+    "Introduction to Networking/MAC Addresses.md",
+    "Introduction to Networking/IP Addresses.md",
+    "Introduction to Networking/Introduction to Networking.md",
+    "Introduction to Networking/Common Ports and Protocols.md",
+    "TCM PEH Index.md",
     "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
     "Ethical Hacking Portion/Gaining Access/Reverse Shells vs Bind Shells.md",
     "Ethical Hacking Portion/Gaining Access/Staged vs Non-Staged Payloads.md",
     "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
     "Ethical Hacking Portion/Scanning/Scanning.md",
-    "TCM PEH Index.md",
     "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
     "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
     "Kioptrix plus mid course capstone writeups/Blackpearl",
@@ -178,23 +194,7 @@
     "Kioptrix plus mid course capstone writeups/Kioptrix",
     "Kioptrix plus mid course capstone writeups",
     "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
-    "Ethical Hacking Portion/Scanning/Researching Potential Vulnerabilities.md",
-    "Ethical Hacking Portion/How to download and setup Challs from VulnHub.md",
-    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
-    "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Ethical Hacking Portion/Scanning/Scanning with NMAP.md",
-    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
-    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
-    "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
-    "Ethical Hacking Portion/Reconnaisance/Hunting Subdomains.md",
     "Resources/Pasted image 20240813142033.png",
-    "Introduction to Linux/How to make a IP sweeper using bash.md",
-    "Introduction to Linux/Starting and Stopping services in Linux.md",
-    "Introduction to Linux/Pretty much... learn to use Linux.md",
-    "Introduction to Linux/Networking Commands in Linux.md",
-    "Introduction to Linux/Introduction to Linux.md",
-    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
     "Resources/Pasted image 20240811220321.png",
     "Resources/Pasted image 20240811220241.png",
     "Resources/Pasted image 20240811220155.png",
