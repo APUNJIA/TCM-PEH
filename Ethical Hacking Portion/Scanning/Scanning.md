@@ -1,4 +1,6 @@
-[[Scanning with nmap]]
+[[Scanning with NMAP]]
 [[Enumerating HTTP and HTTPS]]
 [[Enumerating SMB]]
 [[Enumerating SSH]]
+[[Researching Potential Vulnerabilities]]
+[[Vulnerability Scanning with Nessus]]
