@@ -23,3 +23,5 @@ How to setup BurpSuite on your Kali Machine:
 ![[Pasted image 20240811220321.png]]
 
 6) Boom, done!
+
+If you don't like this method of setup, you can use a tool called FoxyProxy.

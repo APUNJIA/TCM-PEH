@@ -24,5 +24,9 @@
 		6. [[Information Gathering with Burp Suite]]
 		7. [[Google Fu and Utilizing Social Media]]
 	2. [[Scanning]]
+		1. [[Scanning with nmap]]
+		2. [[Enumerating HTTP and HTTPS]]
+		3. [[Enumerating SMB]]
+		4. [[Enumerating SSH]]
 	3. [[Gaining Access]]
 5. 

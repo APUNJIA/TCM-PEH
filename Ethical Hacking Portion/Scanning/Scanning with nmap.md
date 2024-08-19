@@ -18,3 +18,6 @@ Once you run this command and if you wait long enough you will get an output sim
 
 And then we can use this information to exploit the system if it has any vulnerabilities.
 
+In certifications like OSCP, the important game is to know how to enumerate. Because you never know what information that you can gather and what information you can use to complete a challenge.
+
+Remember: *enumeration, enumeration, enumeration*.
