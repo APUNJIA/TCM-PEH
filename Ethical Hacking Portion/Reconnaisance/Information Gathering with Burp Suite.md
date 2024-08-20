@@ -25,3 +25,9 @@ How to setup BurpSuite on your Kali Machine:
 6) Boom, done!
 
 If you don't like this method of setup, you can use a tool called FoxyProxy.
+
+How to setup FoxyProxy with BurpSuite:
+
+1) Google FoxyProxy and go to firefox addons and install the FoxyProxy extension.
+2) Open the extension and go to options > add. Name it BurpSuite, proxy type HTTP, proxy IP Address 127.0.0.1, port 8080, and hit save.
+3) Then go to FoxyProxy again and turn the proxy on and now you have BurpSuite connected.

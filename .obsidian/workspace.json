@@ -13,10 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+                "file": "TCM PEH Index.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "f0ae74ba1cd508c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d71d7bf2f12f7ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3156a6c81c238ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCM PEH Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98464f0e9edb5442",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +75,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,8 +200,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c851d6c37a3e7164",
+  "active": "98464f0e9edb5442",
   "lastOpenFiles": [
+    "Active Directory Potion/Active Directory.md",
+    "TCM PEH Index.md",
+    "Active Directory Potion",
+    "Kioptrix plus Mid-Course Capstone/Kioptrix/Kioptrix.md",
+    "Kioptrix plus Mid-Course Capstone/Dev/Dev.md",
+    "Kioptrix plus Mid-Course Capstone/Butler/Butler.md",
+    "Kioptrix plus Mid-Course Capstone/Blue/Blue.md",
+    "Kioptrix plus Mid-Course Capstone/Blackpearl/Blackpearl.md",
+    "Kioptrix plus Mid-Course Capstone/Academy/Academy.md",
+    "Kioptrix plus Mid-Course Capstone/Kioptrix plus Mid-Course Capstone.md",
+    "Kioptrix plus Mid-Course Capstone/Blackpearl",
+    "Kioptrix plus Mid-Course Capstone/Butler",
+    "Kioptrix plus Mid-Course Capstone/Dev",
+    "Kioptrix plus Mid-Course Capstone/Academy",
+    "Kioptrix plus Mid-Course Capstone/Blue",
+    "Kioptrix plus Mid-Course Capstone/Kioptrix",
+    "Kioptrix plus Mid-Course Capstone",
+    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
+    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
+    "Ethical Hacking Portion/Gaining Access/Credential Stuffing and Password Spraying.md",
+    "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
+    "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
+    "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
     "Introduction to Python/Object Oriented Programming in Python.md",
     "Introduction to Python/Making a Port Scanner out of Python.md",
     "Introduction to Python/Introduction to Python.md",
@@ -171,29 +236,8 @@
     "Introduction to Linux/Introduction to Linux.md",
     "Introduction to Linux/How to make a IP sweeper using bash.md",
     "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
-    "Introduction to Networking/Subnetting.md",
-    "Introduction to Networking/OSI Model.md",
-    "Introduction to Networking/MAC Addresses.md",
-    "Introduction to Networking/IP Addresses.md",
-    "Introduction to Networking/Introduction to Networking.md",
-    "Introduction to Networking/Common Ports and Protocols.md",
-    "TCM PEH Index.md",
-    "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
-    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
-    "Ethical Hacking Portion/Gaining Access/Reverse Shells vs Bind Shells.md",
-    "Ethical Hacking Portion/Gaining Access/Staged vs Non-Staged Payloads.md",
-    "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
-    "Ethical Hacking Portion/Scanning/Scanning.md",
-    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
-    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
     "Kioptrix plus mid course capstone writeups/Blackpearl",
     "Kioptrix plus mid course capstone writeups/Butler",
-    "Kioptrix plus mid course capstone writeups/Dev",
-    "Kioptrix plus mid course capstone writeups/Academy",
-    "Kioptrix plus mid course capstone writeups/Blue",
-    "Kioptrix plus mid course capstone writeups/Kioptrix",
-    "Kioptrix plus mid course capstone writeups",
-    "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
     "Resources/Pasted image 20240813142033.png",
     "Resources/Pasted image 20240811220321.png",
     "Resources/Pasted image 20240811220241.png",
@@ -201,9 +245,6 @@
     "Resources/Pasted image 20240811220119.png",
     "Resources/Pasted image 20240811220054.png",
     "Resources/Pasted image 20240811220004.png",
-    "Ethical Hacking Portion/Gaining Access",
-    "Ethical Hacking Portion/Scanning",
-    "Ethical Hacking Portion/Reconnaisance",
     "Resources/Pasted image 20240805093917.png",
     "Resources/Pasted image 20240805122359.png",
     "Resources/Pasted image 20240805122104.png"
