@@ -8,55 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c851d6c37a3e7164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCM PEH Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0ae74ba1cd508c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d71d7bf2f12f7ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3156a6c81c238ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCM PEH Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98464f0e9edb5442",
+            "id": "139e7662a2632fe2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,19 +16,18 @@
             }
           },
           {
-            "id": "f423b950724c96f8",
+            "id": "5d419cadc6b2c21e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCM PEH Index.md",
+                "file": "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "f030ba8a39339519",
@@ -200,53 +151,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98464f0e9edb5442",
+  "active": "139e7662a2632fe2",
   "lastOpenFiles": [
-    "Active Directory Potion/Active Directory.md",
+    "Active Directory Portion/Active Directory.md",
     "TCM PEH Index.md",
-    "Active Directory Potion",
-    "Kioptrix plus Mid-Course Capstone/Kioptrix/Kioptrix.md",
-    "Kioptrix plus Mid-Course Capstone/Dev/Dev.md",
-    "Kioptrix plus Mid-Course Capstone/Butler/Butler.md",
-    "Kioptrix plus Mid-Course Capstone/Blue/Blue.md",
-    "Kioptrix plus Mid-Course Capstone/Blackpearl/Blackpearl.md",
-    "Kioptrix plus Mid-Course Capstone/Academy/Academy.md",
-    "Kioptrix plus Mid-Course Capstone/Kioptrix plus Mid-Course Capstone.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Active Directory Portion/Additional Active Directory Attacks/Additional Active Directory Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Post Compromise Enumeration.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
+    "Active Directory Portion/Active Directory Overview.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Attack Vectors.md",
+    "README.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Cracking Hashes using Hashcat.md",
+    "Resources/Pasted image 20240827004045.png",
+    "Resources/Pasted image 20240827004019.png",
+    "Resources/Pasted image 20240827003740.png",
+    "Resources/Pasted image 20240827003632.png",
+    "Active Directory Portion/Attacking Active Directory/Attacking Active Directory.md",
+    "Active Directory Portion/Additional Active Directory Attacks",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors",
+    "Active Directory Portion/Attacking Active Directory",
+    "Resources/Pasted image 20240827002517.png",
+    "Resources/Pasted image 20240827002331.png",
+    "Resources/Pasted image 20240827001202.png",
+    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
+    "Ethical Hacking Portion/Gaining Access/Credential Stuffing and Password Spraying.md",
+    "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+    "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
+    "Ethical Hacking Portion/Gaining Access/Reverse Shells vs Bind Shells.md",
+    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
+    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
+    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
+    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
+    "Resources/Pasted image 20240805093917.png",
+    "Resources/mementopython3-english.pdf",
+    "Resources/Pasted image 20240811220155.png",
+    "Active Directory Portion",
     "Kioptrix plus Mid-Course Capstone/Blackpearl",
     "Kioptrix plus Mid-Course Capstone/Butler",
     "Kioptrix plus Mid-Course Capstone/Dev",
-    "Kioptrix plus Mid-Course Capstone/Academy",
-    "Kioptrix plus Mid-Course Capstone/Blue",
-    "Kioptrix plus Mid-Course Capstone/Kioptrix",
-    "Kioptrix plus Mid-Course Capstone",
-    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
-    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
-    "Ethical Hacking Portion/Gaining Access/Credential Stuffing and Password Spraying.md",
-    "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
-    "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
-    "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Introduction to Python/Object Oriented Programming in Python.md",
-    "Introduction to Python/Making a Port Scanner out of Python.md",
-    "Introduction to Python/Introduction to Python.md",
-    "Introduction to Python/Basics of Python.md",
-    "Introduction to Linux/Starting and Stopping services in Linux.md",
-    "Introduction to Linux/Pretty much... learn to use Linux.md",
-    "Introduction to Linux/Networking Commands in Linux.md",
-    "Introduction to Linux/Introduction to Linux.md",
-    "Introduction to Linux/How to make a IP sweeper using bash.md",
-    "Introduction to Networking/TCP, UDP and the Three-Way Handshake.md",
-    "Kioptrix plus mid course capstone writeups/Blackpearl",
-    "Kioptrix plus mid course capstone writeups/Butler",
-    "Resources/Pasted image 20240813142033.png",
-    "Resources/Pasted image 20240811220321.png",
-    "Resources/Pasted image 20240811220241.png",
-    "Resources/Pasted image 20240811220155.png",
-    "Resources/Pasted image 20240811220119.png",
-    "Resources/Pasted image 20240811220054.png",
-    "Resources/Pasted image 20240811220004.png",
-    "Resources/Pasted image 20240805093917.png",
-    "Resources/Pasted image 20240805122359.png",
-    "Resources/Pasted image 20240805122104.png"
+    "Resources/Pasted image 20240813142033.png"
   ]
 }
