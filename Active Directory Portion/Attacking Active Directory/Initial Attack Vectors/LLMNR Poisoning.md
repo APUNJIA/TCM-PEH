@@ -22,6 +22,8 @@ Step 2: An event occurs...
 
 ![[Pasted image 20240827004019.png]]
 
+We then have to connect to our attacker machine.
+
 Step 3: Get the hashes!!
 
 ![[Pasted image 20240827004045.png]]

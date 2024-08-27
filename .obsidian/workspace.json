@@ -11,8 +11,24 @@
             "id": "139e7662a2632fe2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TCM PEH Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deadf011025eac29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Networking/IP Addresses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Networking/IP Addresses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction to Networking/IP Addresses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction to Networking/IP Addresses.md"
+              }
             }
           }
         ],
@@ -151,53 +172,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "139e7662a2632fe2",
+  "active": "deadf011025eac29",
   "lastOpenFiles": [
-    "Active Directory Portion/Active Directory.md",
-    "TCM PEH Index.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Active Directory Portion/Additional Active Directory Attacks/Additional Active Directory Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Post Compromise Enumeration.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
-    "Active Directory Portion/Active Directory Overview.md",
+    "Introduction to Networking/IP Addresses.md",
+    "Introduction to Networking/OSI Model.md",
+    "Untitled.canvas",
+    "TCM PEH Index.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Attack Vectors.md",
-    "README.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Gaining Shell Access.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Cracking Hashes using Hashcat.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
+    "Resources/Pasted image 20240827115508.png",
+    "Resources/Pasted image 20240827115337.png",
+    "Resources/Pasted image 20240827115115.png",
+    "Resources/Pasted image 20240827115046.png",
+    "Resources/Pasted image 20240827114802.png",
+    "Resources/Pasted image 20240827114539.png",
+    "Resources/Pasted image 20240827114321.png",
+    "Ethical Hacking Portion/Scanning/Scanning.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
+    "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
+    "Ethical Hacking Portion/Scanning/Researching Potential Vulnerabilities.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
+    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
+    "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
+    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
+    "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
+    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
+    "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
+    "Ethical Hacking Portion/Reconnaisance/Hunting Subdomains.md",
+    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
+    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
+    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
+    "Active Directory Portion/Active Directory.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
     "Resources/Pasted image 20240827004045.png",
     "Resources/Pasted image 20240827004019.png",
     "Resources/Pasted image 20240827003740.png",
-    "Resources/Pasted image 20240827003632.png",
-    "Active Directory Portion/Attacking Active Directory/Attacking Active Directory.md",
     "Active Directory Portion/Additional Active Directory Attacks",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors",
     "Active Directory Portion/Attacking Active Directory",
-    "Resources/Pasted image 20240827002517.png",
-    "Resources/Pasted image 20240827002331.png",
-    "Resources/Pasted image 20240827001202.png",
-    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
-    "Ethical Hacking Portion/Gaining Access/Credential Stuffing and Password Spraying.md",
-    "Ethical Hacking Portion/Gaining Access/Brute Force Attacks.md",
-    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
-    "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
-    "Ethical Hacking Portion/Gaining Access/Manual Exploitation.md",
-    "Ethical Hacking Portion/Gaining Access/Reverse Shells vs Bind Shells.md",
-    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
-    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
-    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
-    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
-    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
-    "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
-    "Resources/Pasted image 20240805093917.png",
     "Resources/mementopython3-english.pdf",
-    "Resources/Pasted image 20240811220155.png",
     "Active Directory Portion",
     "Kioptrix plus Mid-Course Capstone/Blackpearl",
     "Kioptrix plus Mid-Course Capstone/Butler",
-    "Kioptrix plus Mid-Course Capstone/Dev",
-    "Resources/Pasted image 20240813142033.png"
+    "Kioptrix plus Mid-Course Capstone/Dev"
   ]
 }
