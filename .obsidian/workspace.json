@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "5f67f561ec271ac9",
+        "id": "5e48b605db1665b8",
         "type": "tabs",
         "children": [
           {
-            "id": "139e7662a2632fe2",
+            "id": "929a3c9d6151772c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Plumhound.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30ac559e189b2add",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,31 +32,19 @@
             }
           },
           {
-            "id": "deadf011025eac29",
+            "id": "cbd3d691dac0630e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Networking/IP Addresses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d419cadc6b2c21e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
+                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "f030ba8a39339519",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Networking/IP Addresses.md",
+                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Networking/IP Addresses.md",
+                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Networking/IP Addresses.md"
+                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md"
               }
             }
           }
@@ -172,45 +172,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "deadf011025eac29",
+  "active": "7e47337ec4975270",
   "lastOpenFiles": [
+    "Resources/Pasted image 20240828173156.png",
+    "Resources/Pasted image 20240828173043.png",
+    "Resources/Pasted image 20240828172932.png",
+    "Resources/Pasted image 20240828172805.png",
+    "Resources/Pasted image 20240828172648.png",
+    "Resources/Pasted image 20240828172414.png",
+    "Resources/Pasted image 20240828172250.png",
+    "Resources/Pasted image 20240828172033.png",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
+    "Active Directory Portion/Active Directory.md",
+    "TCM PEH Index.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with PingCastle.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Post Compromise Enumeration.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Plumhound.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Gaining Shell Access.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/IPv6 Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Passback Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with ldapdomaindump.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Bloodhound.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Internal Attack Strategy.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Cracking Hashes using Hashcat.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Attack Vectors.md",
+    "Resources/Pasted image 20240828151525.png",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Resources/Pasted image 20240828112427.png",
+    "Resources/Pasted image 20240828112248.png",
     "Introduction to Networking/IP Addresses.md",
     "Introduction to Networking/OSI Model.md",
     "Untitled.canvas",
-    "TCM PEH Index.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Attack Vectors.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Gaining Shell Access.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Cracking Hashes using Hashcat.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
-    "Resources/Pasted image 20240827115508.png",
-    "Resources/Pasted image 20240827115337.png",
-    "Resources/Pasted image 20240827115115.png",
-    "Resources/Pasted image 20240827115046.png",
-    "Resources/Pasted image 20240827114802.png",
-    "Resources/Pasted image 20240827114539.png",
-    "Resources/Pasted image 20240827114321.png",
     "Ethical Hacking Portion/Scanning/Scanning.md",
     "Ethical Hacking Portion/Gaining Access/Gaining Root with Metasploit.md",
     "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
     "Ethical Hacking Portion/Scanning/Researching Potential Vulnerabilities.md",
     "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
-    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
-    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
-    "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
-    "Ethical Hacking Portion/Reconnaisance/Reconnaissance.md",
-    "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
-    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
-    "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
-    "Ethical Hacking Portion/Reconnaisance/Hunting Subdomains.md",
-    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
-    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
-    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
-    "Active Directory Portion/Active Directory.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Resources/Pasted image 20240827004045.png",
-    "Resources/Pasted image 20240827004019.png",
-    "Resources/Pasted image 20240827003740.png",
     "Active Directory Portion/Additional Active Directory Attacks",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration",

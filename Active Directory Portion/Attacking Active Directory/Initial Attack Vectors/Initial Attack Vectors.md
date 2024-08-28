@@ -1,3 +1,7 @@
 [[LLMNR Poisoning]]
 [[Cracking Hashes using Hashcat]]
 [[SMB Relay Attacks]]
+[[Gaining Shell Access]]
+[[IPv6 Attacks]]
+[[Passback Attacks]]
+[[Initial Internal Attack Strategy]]

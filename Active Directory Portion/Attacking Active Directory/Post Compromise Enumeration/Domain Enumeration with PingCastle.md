@@ -1,0 +1,1 @@
+PingCastle is just a GUI version of Bloodhound/PlumHound. You can use it on Windows and can be used for enterprises as well.
