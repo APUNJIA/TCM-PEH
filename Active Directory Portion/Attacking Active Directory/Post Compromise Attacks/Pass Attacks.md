@@ -62,3 +62,19 @@ cmedb
 
 ![[Pasted image 20240828173156.png]]
 
+Mitigation:
+
+It is hard to completely prevent, but we can make it more difficult on a hacker:
+
+1) Limit account re-use:
+	1) Avoid re-using local admin password
+	2) Disable Guest and Administrator accounts
+	3) Limit who is a local administrator(least privilege)
+2) Utilize strong passwords:
+	1) The longer the better (>14 characters)
+	2) Avoid using common words
+	3) I like long sentences
+3) Privilege Access Management(PAM):
+	1) Check out/in sensitive accounts when needed
+	2) Automatically rotate passwords on check out and check in
+	3) Limits pass attacks as hash/password is strong and constantly rotated
