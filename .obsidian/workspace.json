@@ -13,46 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Mimikatz.md",
+                "file": "TCM PEH Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eac5995fd92218b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c13b6ba3b5edd49",
+            "id": "5eb8c7a6349bcdac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb749a345f0909d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory Portion/Active Directory.md",
+                "file": "Web App Exploitation/Web App Exploitation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.5
   },
   "right": {
     "id": "f030ba8a39339519",
@@ -118,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+                "file": "Web App Exploitation/Web App Exploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+                "file": "Web App Exploitation/Web App Exploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md"
+                "file": "Web App Exploitation/Web App Exploitation.md"
               }
             }
           }
@@ -180,16 +160,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c13b6ba3b5edd49",
+  "active": "5eb8c7a6349bcdac",
   "lastOpenFiles": [
+    "TCM PEH Index.md",
+    "Web App Exploitation/Web App Exploitation.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Ethical Hacking Portion/Post Exploitation/Post Exploitation.md",
+    "Ethical Hacking Portion/Post Exploitation/Cleaning Up.md",
+    "Ethical Hacking Portion/Post Exploitation/Pivoting.md",
+    "Resources/Pasted image 20240829232431.png",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
+    "Active Directory Portion/Active Directory.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Mimikatz.md",
+    "Ethical Hacking Portion/Post Exploitation/Maintaining Access.md",
+    "Ethical Hacking Portion/Post Exploitation/File Transfer.md",
+    "Ethical Hacking Portion/Post Exploitation",
+    "Web App Exploitation",
     "Active Directory Portion/Active Directory Case Studies/Case 3.md",
     "Active Directory Portion/Active Directory Case Studies/Case 2.md",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "TCM PEH Index.md",
     "README.md",
-    "Active Directory Portion/Active Directory.md",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/LNK File Attack.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Mimikatz.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Passback Attacks.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Cracking Hashes using Hashcat.md",
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Gaining Shell Access.md",
@@ -202,23 +192,15 @@
     "Active Directory Portion/Additional Active Directory Attacks/Additional Active Directory Attacks.md",
     "Active Directory Portion/Attacking Active Directory/Attacking Active Directory.md",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Token Impersonation Attack.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Domain Compromise Attack Strategy.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
     "Resources/Pasted image 20240829180542.png",
     "Resources/Pasted image 20240829180458.png",
     "Resources/Pasted image 20240829180416.png",
     "Resources/Pasted image 20240829153402.png",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Kerberoasting.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Post Compromise Enumeration.md",
-    "Post Compromise Attack Strategy.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Bloodhound.md",
     "Resources/Pasted image 20240829123956.png",
     "Resources/Pasted image 20240829120327.png",
     "Resources/Pasted image 20240829120305.png",
     "Resources/Pasted image 20240829115447.png",
     "Resources/Pasted image 20240829115125.png",
-    "Resources/Pasted image 20240829102909.png",
     "Untitled.canvas",
     "Active Directory Portion/Additional Active Directory Attacks",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks",
@@ -226,8 +208,6 @@
     "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors",
     "Active Directory Portion/Attacking Active Directory",
     "Resources/mementopython3-english.pdf",
-    "Active Directory Portion",
-    "Kioptrix plus Mid-Course Capstone/Blackpearl",
-    "Kioptrix plus Mid-Course Capstone/Butler"
+    "Active Directory Portion"
   ]
 }
