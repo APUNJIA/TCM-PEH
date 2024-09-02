@@ -6,19 +6,19 @@ For totally professional reasons, certs like OSCP do not allow the use of tools 
 
 You can start metasploit by the following command:
 
-```
+```bash
 $ msfconsole
 ```
 
 Then if you want to search for a certain protocol, you can do that by the following command:
 
-```
+```msfconsole
 msf5 > search smb
 ```
 
 We know that auxiliary modules are for enumeration so we can search auxiliary modules. So we can choose the option from the given results and then we can go to that by the following command:
 
-```
+```msfconsole
 msf5 > use <module name>
 ```
 
@@ -28,7 +28,7 @@ Note: RHOSTS stands for Remote Hosts and LHOSTS stands for Local Hosts
 
 Then you can run the following commands one after the another to do SMB enumeration:
 
-```
+```msfconsole
 set RHOSTS <ip_address_of_target>
 run
 ```

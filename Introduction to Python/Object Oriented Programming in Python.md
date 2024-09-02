@@ -2,7 +2,7 @@
 
 For example we can make a class in a python file called Employees.py:
 
-```
+```Python
 #!/bin/python3
 
 class Employees:
@@ -24,7 +24,7 @@ All classes have an *init* function which is executed when the class is being in
 
 Then we can now make another python file to access this class. Lets name this ouremployees.py
 
-```
+```Python
 #!/bin/python3
 
 from Employees import Employees
@@ -40,7 +40,7 @@ We can use this Object Oriented Programming knowledge to build a Shoe Budget Too
 
 First lets create a class function called Shoes.py:
 
-```
+```Python
 #!/bin/python3
 
 class Shoes: 
@@ -74,7 +74,7 @@ class Shoes:
 
 Now, lets create the python file that will import this class:
 
-```
+```Python
 #!/bin/python3
 
 from Shoes import Shoes 

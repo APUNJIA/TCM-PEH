@@ -2,14 +2,14 @@ What if IPv6 is not possible in the network and we do end up compromising the ac
 
 First we start by making a directory and cd-ing into it
 
-```
+```bash
 mkdir marvel.local
 cd marvel.local
 ```
 
 run ldapdomaindump as admin
 
-```
+```bash
 sudo ldapdomaindump ldaps://<ip_address> -u '<DC>\<username>' -p <Password>
 ```
 

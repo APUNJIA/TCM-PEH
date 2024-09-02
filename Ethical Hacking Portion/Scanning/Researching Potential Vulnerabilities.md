@@ -8,8 +8,8 @@ Lets say you cannot run a browser for some reason, you can also use a terminal t
 
 Note: You don't have to be too specific with searchsploit, the more specific you are, the more off you are. This is because it searches for the exact string that you're typing. Syntax:
 
-```
-$ searchsploit <name_of_vuln>
+```bash
+searchsploit <name_of_vuln>
 ```
 
 

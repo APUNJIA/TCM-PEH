@@ -1,18 +1,18 @@
 Since we know that we would be cracking an NTLM hash, we can run the following command first:
 
-```
+```bash
 hashcat | grep NTLM
 ```
 
 Then once we know that we want to run NTLMv2 hash, we can run the following command:
 
-```
+```bash
 hashcat -m 5600 hashes.txt /usr/share/wordlists/rockyou.txt
 ```
 
 Lets say you already cracked this password and it is now stored in your potfile, you can then run this command:
 
-```
+```bash
 hashcat -m 5600 hashes.txt /usr/share/wordlists/rockyou.txt --show
 ```
 

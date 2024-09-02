@@ -3,7 +3,7 @@
 **Also Important**: Don't name your python file "Socket.py" as socket is a library that is inbuilt into python and it will cause an issue with the thing.
 
 This is the implementation of sockets in python:
-```
+```Python
 #!/bin/python3
 
 import socket
@@ -18,7 +18,7 @@ s.connect((HOST, PORT))
 
 This is the port scanner project:
 
-```
+```Python
 #!/bin/python3
 
 import sys

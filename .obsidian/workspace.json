@@ -23,8 +23,12 @@
             "id": "5eb8c7a6349bcdac",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web App Exploitation/SQL Injection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web App Exploitation/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web App Exploitation/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web App Exploitation/SQL Injection.md"
+              }
             }
           }
         ],
@@ -154,34 +162,34 @@
   },
   "active": "5eb8c7a6349bcdac",
   "lastOpenFiles": [
-    "Web App Exploitation/SQL Injection.md",
-    "Career Advice.md",
-    "TCM PEH Index.md",
-    "Ethical Hacking Portion/Reconnaisance/Information Gathering with Burp Suite.md",
-    "Ethical Hacking Portion/Reconnaisance/Identifying Website Technologies.md",
-    "Ethical Hacking Portion/Reconnaisance/Hunting Subdomains.md",
-    "Ethical Hacking Portion/Reconnaisance/Google Fu and Utilizing Social Media.md",
-    "Ethical Hacking Portion/Reconnaisance/Gaining Access.md",
-    "Ethical Hacking Portion/Reconnaisance/Gathering Breached Creds.md",
     "Web App Exploitation/Web App Exploitation.md",
-    "Legal Documents and Report Writing.md",
-    "Wireless Penetration Testing.md",
-    "Web App Exploitation/XXE.md",
-    "Web App Exploitation/XSS.md",
-    "Web App Exploitation/Insecure File Upload.md",
-    "Web App Exploitation/IDOR.md",
-    "Web App Exploitation/Command Injection.md",
-    "Web App Exploitation/Attacking Authentication.md",
-    "Ethical Hacking Portion/Reconnaisance/Discovering Email Addresses.md",
-    "Web App Exploitation/Web App Enumeration/Finding Subdomains.md",
-    "Web App Exploitation/Web App Enumeration/Web App Enumeration.md",
-    "Web App Exploitation/Find and Exploit Common Web Vulnerabilities/Find and Exploit Common Web Vulnerabilities.md",
+    "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
+    "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
+    "Ethical Hacking Portion/Scanning/Scanning.md",
+    "Ethical Hacking Portion/Scanning/Researching Potential Vulnerabilities.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SSH.md",
+    "Ethical Hacking Portion/Scanning/Enumerating SMB.md",
+    "Ethical Hacking Portion/Scanning/Enumerating HTTP and HTTPS.md",
+    "Active Directory Portion/Active Directory Overview.md",
+    "Active Directory Portion/Attacking Active Directory/Attacking Active Directory.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Post Compromise Enumeration.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Plumhound.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with PingCastle.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with ldapdomaindump.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Enumeration/Domain Enumeration with Bloodhound.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Token Impersonation Attack.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Domain Compromise Attack Strategy.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Mimikatz.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/LNK File Attack.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Kerberoasting.md",
+    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/GPP or cPassword Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
+    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Internal Attack Strategy.md",
     "Web App Exploitation/Web App Enumeration",
     "Web App Exploitation/Find and Exploit Common Web Vulnerabilities",
-    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
-    "Ethical Hacking Portion/Post Exploitation/Post Exploitation.md",
-    "Ethical Hacking Portion/Post Exploitation/Cleaning Up.md",
-    "Ethical Hacking Portion/Post Exploitation/Pivoting.md",
     "Resources/Pasted image 20240829232431.png",
     "Ethical Hacking Portion/Post Exploitation",
     "Web App Exploitation",

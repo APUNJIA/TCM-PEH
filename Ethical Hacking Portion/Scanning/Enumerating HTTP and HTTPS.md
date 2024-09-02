@@ -12,8 +12,8 @@ Note: If a web-service is using Apache, it should also be using PHP. Maybe a LAM
 
 Nikto is a web vulnerability scanner. You should be able to use this tool for solving CTFs but lets say if the security architecture of the website is good, there's a chance that it will not allow you to run nikto. You can run this tool with the following syntax:
 
-```
-$ nikto -h http://<ip address>
+```bash
+nikto -h http://<ip address>
 ```
 
 Where -h stands for host.
@@ -34,7 +34,7 @@ Pro tip: check the go faster checkbox
 
 And then click on browse. The file we would be using most commonly should be in this path:
 
-```
+```bash
 /usr/share/wordlists/dirbuster/directory-list-2.3-small.txt
 ```
 

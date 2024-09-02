@@ -10,8 +10,8 @@ This can be done with a script called GetUserSPNs.py
 
 To run it, use the following command:
 
-```
-sudo GeyUserSPNs.py <DC>/<user>:<Password> -dc-ip <IP_Address> -request
+```bash
+sudo GetUserSPNs.py <DC>/<user>:<Password> -dc-ip <IP_Address> -request
 ```
 
 At the end, it will spit out a hash, we will save that hash into krb.txt
