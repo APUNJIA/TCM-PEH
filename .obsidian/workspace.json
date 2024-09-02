@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web App Exploitation/SQL Injection.md",
+                "file": "Wireless Penetration Testing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web App Exploitation/SQL Injection.md",
+                "file": "Wireless Penetration Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web App Exploitation/SQL Injection.md",
+                "file": "Wireless Penetration Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web App Exploitation/SQL Injection.md"
+                "file": "Wireless Penetration Testing.md"
               }
             }
           }
@@ -162,6 +162,14 @@
   },
   "active": "5eb8c7a6349bcdac",
   "lastOpenFiles": [
+    "Wireless Penetration Testing.md",
+    "Legal Documents and Report Writing.md",
+    "TCM PEH Index.md",
+    "Ethical Hacking Portion/Gaining Access/Gaining Access.md",
+    "Ethical Hacking Portion/The 5 stages of Ethical Hacking.md",
+    "Career Advice.md",
+    "README.md",
+    "Web App Exploitation/SQL Injection.md",
     "Web App Exploitation/Web App Exploitation.md",
     "Ethical Hacking Portion/Scanning/Vulnerability Scanning with Nessus.md",
     "Ethical Hacking Portion/Scanning/Scanning with nmap.md",
@@ -180,14 +188,6 @@
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Token Impersonation Attack.md",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Domain Compromise Attack Strategy.md",
     "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Post Compromise Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Pass Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Mimikatz.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/LNK File Attack.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/Kerberoasting.md",
-    "Active Directory Portion/Attacking Active Directory/Post Compromise Attacks/GPP or cPassword Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/SMB Relay Attacks.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/LLMNR Poisoning.md",
-    "Active Directory Portion/Attacking Active Directory/Initial Attack Vectors/Initial Internal Attack Strategy.md",
     "Web App Exploitation/Web App Enumeration",
     "Web App Exploitation/Find and Exploit Common Web Vulnerabilities",
     "Resources/Pasted image 20240829232431.png",
