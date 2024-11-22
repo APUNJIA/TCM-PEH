@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web App Exploitation/XSS.md",
+                "file": "Web App Exploitation/XXE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XSS"
+              "title": "XXE"
             }
           }
         ]
@@ -161,10 +161,11 @@
   },
   "active": "be14b4fc779eecce",
   "lastOpenFiles": [
+    "Web App Exploitation/Web App Exploitation.md",
+    "Web App Exploitation/XSS.md",
+    "Web App Exploitation/Attacking Authentication.md",
     "Kioptrix plus Mid-Course Capstone/How to download and setup Challs from VulnHub.md",
     "Kioptrix plus Mid-Course Capstone/Kioptrix plus Mid-Course Capstone.md",
-    "Web App Exploitation/Attacking Authentication.md",
-    "Web App Exploitation/Web App Exploitation.md",
     "Web App Exploitation/SQL Injection.md",
     "Web App Exploitation/Insecure File Upload.md",
     "Web App Exploitation/IDOR.md",
@@ -174,7 +175,6 @@
     "Active Directory Portion/Active Directory.md",
     "Career Advice.md",
     "Ethical Hacking Portion/Gaining Access/Reverse Shells vs Bind Shells.md",
-    "Web App Exploitation/XSS.md",
     "Introduction to Networking/IP Addresses.md",
     "TCM PEH Index.md",
     "Ethical Hacking Portion/Reconnaisance/Passive Recon.md",
