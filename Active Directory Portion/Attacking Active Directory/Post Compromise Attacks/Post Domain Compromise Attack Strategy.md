@@ -33,7 +33,7 @@ What is it?
 2) We can request access to any resource or system on the domain
 3) Golden tickets == complete access to every machine
 
-We use mimikatz for this attack. We can use this tool to obtain the information necessary to perform this attack.
+We use [[Mimikatz]] for this attack. We can use this tool to obtain the information necessary to perform this attack.
 
 ![[Pasted image 20240829180416.png]]
 

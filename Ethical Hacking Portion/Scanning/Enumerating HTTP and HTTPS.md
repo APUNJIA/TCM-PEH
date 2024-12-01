@@ -22,8 +22,6 @@ Next, we can start with directory busting. This can be done by a tool called dir
 
 Once you open dirbuster, its going to open this interface:
 
-
-
 We can then put our domain as:
 
 ```

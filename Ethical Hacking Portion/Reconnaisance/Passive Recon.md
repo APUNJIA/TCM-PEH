@@ -6,8 +6,8 @@ There are 2 types of physical reconnaissance:
 Web/Host Reconnaissance:
 
 1) Target Validation: WHOIS, nslookup, dnsrecon
-2) Finding Subdomains: Google Fu, dig, Nmap, Sublist3r, Bluto, crt.sh, etc.
-3) Fingerprinting: Nmap, Wappalyzer, WhatWeb, BuiltWith, Netcat
-4) Data Breaches: HaveIBeenPwned, Breach-Parse, WeLeakInfo 
+2) Finding Subdomains: Google Fu, dig, [[Scanning with nmap|nmap]], [[Hunting Subdomains|Sublist3r]], Bluto, crt.sh, etc.
+3) Fingerprinting: [[Scanning with nmap|nmap]], Wappalyzer, [[Identifying Website Technologies|WhatWeb]], BuiltWith, Netcat
+4) Data Breaches: HaveIBeenPwned, [[Gathering Breached Creds|Breach-Parse]], WeLeakInfo 
 
 

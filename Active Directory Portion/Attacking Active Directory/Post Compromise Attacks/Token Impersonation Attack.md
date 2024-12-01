@@ -33,7 +33,7 @@ Impersonate our Domain Administrator
 
 ![[Pasted image 20240829101240.png]]
 
-Attempt to dump hashes as Domain Admin. Here, we're using a tool called mimikatz.
+Attempt to dump hashes as Domain Admin. Here, we're using a tool called [[Mimikatz]].
 
 ![[Pasted image 20240829101324.png]]
 

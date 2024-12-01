@@ -8,7 +8,7 @@
 
 **Note**: the protocol responsible for giving [[IP Addresses]] to [[MAC Addresses]] is **ARP**(Address Resolution Protocol) 
 
-**arp -a**: Displays the ARP cache which maps IP addresses to MAC addresses
+**arp -a**: Displays the ARP cache which maps IP addresses to [[MAC Addresses]]
 
 **ip r**: Displays the routing table, which contains information about network routes
 

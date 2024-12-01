@@ -1,3 +1,3 @@
-I made notes for the TCM PEH Course using the note taking app Obsidian. 
-You would find the most use of this resource if you download Obsidian for your device and clone this repo. 
-Thanks, I hope you find use for these notes. I'll add more notes for other TCM courses on my GitHub soon™.
+I made notes for the TCM PEH Course using the note taking app Obsidian. You would find the most use of this resource if you download Obsidian for your device and clone this repo. Thanks, I hope you find use for these notes. I'll add more notes for other TCM courses on my GitHub soon™. Start with the TCM PEH Index.md file when opening the repo in obsidian.
+
+P.S: These notes may contain malicious scripts/names of services that intend to gain access to machines. Please do not run them on someone else's machine without prior permission. I will not be held responsible for any damages caused by running the aforementioned scripts/services. Thank you.

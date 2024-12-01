@@ -1,4 +1,4 @@
-This is a fork of the original bloodhound and it can be found on github.
+This is a fork of the original [[Domain Enumeration with Bloodhound |Bloodhound]] and it can be found on github.
 
 In order to download it, first, go to your opt directory and then clone the repo there. Im not gonna mention how, you should know how to git clone and do that stuff. If not... RTFM.
 
